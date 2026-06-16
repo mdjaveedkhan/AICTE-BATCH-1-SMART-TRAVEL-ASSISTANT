@@ -1,4 +1,4 @@
-# ✈️ AI Smart Travel Planner ASSISTANT
+# ✈️ AI Smart Travel Planner Assistant
 
 **Personalized AI-powered travel and itinerary planning — Generate seamless itineraries, transit logs, safety advisory briefs, and track budgets all in one place.**
 
